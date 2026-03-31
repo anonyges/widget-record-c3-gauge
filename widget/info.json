@@ -1,0 +1,21 @@
+{
+    "name": "recordC3Gauge",
+    "title": "Record C3 Gauge",
+    "subTitle": "Record C3 Gauge Chart",
+    "version": "1.0.0",
+    "publishedDate": 1771870500,
+    "releaseNotes": "unavailable",
+    "metadata": {
+        "description": "Displays C3 gauge chart in records.",
+        "pages": [
+            "View Panel",
+            "Listing"
+        ],
+        "certified": "No",
+        "publisher": "kimd@fortinet.com",
+        "compatibility": [
+            "7.6.5"
+        ]
+    },
+    "development": false
+}
